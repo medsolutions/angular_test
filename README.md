@@ -31,7 +31,7 @@
 
 Материалы для выполнения задания:
 * адрес сервера REST API: https://medicapp.k8s.mhth.ru/
-* [документация к REST API](api/api.html)
+* [документация к REST API](https://htmlpreview.github.io/?https://github.com/medsolutions/angular_test/blob/master/api/api.html)
 * материалы по дизайну в папке design.
 * ссылка на styleguide в Zeplin https://scene.zeplin.io/project/5db190e70e4ae822c2f356b3
 
